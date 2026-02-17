@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# this script is for installling nginx 
 
 sudo apt-get update -y
 
