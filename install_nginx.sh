@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# this script is for installling nginx 
-
+# this script is for installling nginx and enable nginx
 sudo apt-get update -y
 
 sudo apt install nginx -y
